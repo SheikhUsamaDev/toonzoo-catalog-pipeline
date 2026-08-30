@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-30T16:06:59Z",
+  "categories": {
+    "cartoons": {
+      "videos": []
+    },
+    "poems": {
+      "videos": []
+    },
+    "naats": {
+      "videos": []
+    },
+    "reels": {
+      "videos": []
+    }
+  },
+  "stats": {
+    "total_videos": 0,
+    "added_this_run": 0,
+    "rejected_this_run": 0,
+    "channels_processed": 0
+  }
+}
