@@ -1,0 +1,59 @@
+# ToonZoo Kids — curated channel allow-list
+#
+# This is the ONLY source of videos for the app. The pipeline never does open
+# keyword search — it only pulls uploads from channels explicitly listed here
+# with status: active. This is a deliberate child-safety control, not just a
+# content-curation convenience: open search can surface inappropriate content
+# that slipped past YouTube's own moderation, which channel allow-listing
+# prevents by construction.
+#
+# --- Non-technical editing guide ---
+# 1. Find the channel's "Channel ID" (starts with UC..., 24 characters) — NOT
+#    the @handle shown in the URL. Get it from the channel's page > About >
+#    Share channel > Copy channel ID, or run:
+#      python tools/resolve_handle.py @handle
+# 2. Add a new entry under the right category with status: pending.
+# 3. Before ever setting status: active, complete the vetting checklist below
+#    and note who did it and when in the "notes" field.
+# 4. Never add status: active without doing the vetting checklist yourself —
+#    a malformed or unvetted entry is a content-safety incident waiting to
+#    happen, not just a bug.
+
+version: 1
+
+vetting_checklist: |
+  Before setting status: active for a new channel, confirm ALL of:
+  1. Watched at least 5 recent uploads in full (not just thumbnails/titles).
+  2. Channel is clearly operated by/for a legitimate kids/religious content
+     publisher (established brand, verified badge, or a long consistent
+     upload history — not a brand-new or recently-renamed channel).
+  3. No comments/community posts containing spam, scam links, or
+     inappropriate content visible on recent uploads.
+  4. Channel is not flagged/terminated/age-restricted/limited-monetization
+     on YouTube itself.
+  5. Content genuinely matches the category you're adding it to.
+
+categories:
+  cartoons:
+    # Example entries — replace with real vetted channel IDs before running
+    # the pipeline for real. Leave status: pending until each is vetted.
+    - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
+      name: "Example Cartoon Channel (REPLACE ME)"
+      status: pending
+      notes: "Placeholder — not yet vetted, do not activate."
+      reels_eligible: true
+      max_video_seconds: 1200
+
+  poems:
+    - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
+      name: "Example Nursery Rhymes Channel (REPLACE ME)"
+      status: pending
+      notes: "Placeholder — not yet vetted, do not activate."
+      reels_eligible: true
+
+  naats:
+    - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
+      name: "Example Naat Channel (REPLACE ME)"
+      status: pending
+      notes: "Placeholder — not yet vetted, do not activate."
+      reels_eligible: false

@@ -1,0 +1,36 @@
+# Global pipeline settings (not per-channel — those live in channels.yaml)
+
+# Default max video length admitted into the catalog, for channels that don't
+# set their own max_video_seconds override.
+max_video_seconds: 3600
+
+# A video from a reels_eligible channel qualifies for the Reels pool only if
+# its duration is at or under this cap.
+reels_max_seconds: 90
+
+# How many items to request per playlistItems.list page (max 50 allowed by
+# the API). Kept at the max to minimize the number of calls.
+playlist_page_size: 50
+
+# How many video IDs to batch into a single videos.list call (max 50 allowed
+# by the API).
+videos_batch_size: 50
+
+# Last-mile defense-in-depth text filter, checked against title+description
+# (case-insensitive substring match) even for allow-listed channels. This is
+# NOT the primary safety control — the channel allow-list is — this just
+# catches a channel that's drifted or been compromised without needing a
+# code change.
+title_description_blocklist:
+  - "onlyfans"
+  - "18+"
+  - "subscribe to my"
+  - "click here to win"
+  - "gambling"
+  - "bet now"
+
+# Safety valve: if a single run would exceed this many YouTube Data API units,
+# stop processing further channels and exit with a warning rather than risk
+# quietly burning through the daily 10,000-unit free quota (e.g. if
+# channels.yaml balloons unexpectedly, or a bug causes runaway pagination).
+max_units_per_run: 5000
