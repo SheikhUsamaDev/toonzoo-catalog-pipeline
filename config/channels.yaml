@@ -67,6 +67,71 @@ categories:
       reels_eligible: true
       max_video_seconds: 1800
 
+    - channel_id: "UC9trsD1jCTXXtN3xIOIU8gg"
+      name: "WB Kids (Tom & Jerry)"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 30.9M subscribers, channel since
+        2015, custom URL @wbkids matches brand exactly (official Warner
+        Bros. channel), 2948 videos. Sampled titles/content clean (Tom &
+        Jerry, Scooby-Doo — classic WB kids cartoons).
+      reels_eligible: true
+      max_video_seconds: 1800
+
+    - channel_id: "UC_lQpRnSykxyiiMAgnD2kFQ"
+      name: "Motu Patlu"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 4.7M subscribers, channel since
+        2018, custom URL @motupatlutv matches brand exactly, 5096 videos.
+        Sampled titles clean, on-brand Motu Patlu content.
+      reels_eligible: true
+      max_video_seconds: 1800
+
+    - channel_id: "UCiBigY9XM-HaOxUc269ympg"
+      name: "Green Gold TV (Chhota Bheem)"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 22.2M subscribers, channel since
+        2011, custom URL @greengoldtv matches brand exactly, 3491 videos —
+        this is the real official publisher of Chhota Bheem/Super Bheem. A
+        search-result-suggested channel_id for "Chhota Bheem & Motu Patlu -
+        Official Channel" turned out to be a 2-subscriber, 1-video, 2022-
+        created fake — rejected, same handle/search-mismatch failure mode
+        as Pinkfong Baby Shark and the earlier @one4kids case. Sampled
+        titles/content clean (Chhota Bheem, Super Bheem episodes).
+      reels_eligible: true
+      max_video_seconds: 1800
+
+    - channel_id: "UChz5aEi3dfrDVC8-YJsMUDA"
+      name: "T-Series Kids Hut"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 3.71M subscribers, channel since
+        2014, custom URL @kidshut matches brand exactly, 1807 videos,
+        published by T-Series (large, established Indian media company).
+        Covers the "kid-safe spooky/horror stories" request — sampled
+        content includes "The Haunted Treehouse Mystery — Spooky Story for
+        Kids, Moral Story" alongside bedtime fairy tales and classic story
+        adaptations (Jungle Book) — mildly tense but clearly wholesome,
+        moral-lesson-driven, nothing graphic. Thumbnail sampled and
+        confirmed appropriate.
+      reels_eligible: true
+      max_video_seconds: 1800
+
+    - channel_id: "UCsjj_aqzq0Me6usv14g5AJw"
+      name: "Princess Stories - Cartoon Series"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 45.9K subscribers (smaller than
+        other entries, but channel since 2015 with 60 videos — over a
+        decade of consistent, if modest, operation, not a brand-new
+        channel). Covers the "princess/dolls stories" request — sampled
+        content: Cinderella and Rapunzel episode series, thumbnail sampled
+        and confirmed clean/on-brand fairy-tale content.
+      reels_eligible: true
+      max_video_seconds: 1800
+
   poems:
     - channel_id: "UCKAqou7V9FAWXpZd9xtOg3Q"
       name: "Little Baby Bum"
