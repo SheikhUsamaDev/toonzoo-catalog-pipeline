@@ -45,14 +45,14 @@ categories:
       max_video_seconds: 1200
 
   poems:
-    - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
+    - channel_id: "UCbCmjCuTUZos6Inko4u57UP"
       name: "Example Nursery Rhymes Channel (REPLACE ME)"
       status: pending
       notes: "Placeholder — not yet vetted, do not activate."
       reels_eligible: true
 
   naats:
-    - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
+    - channel_id: "UCbCmjCuTUZos6Inko4u57UN"
       name: "Example Naat Channel (REPLACE ME)"
       status: pending
       notes: "Placeholder — not yet vetted, do not activate."
