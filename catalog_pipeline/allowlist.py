@@ -13,7 +13,7 @@ import yaml
 
 CHANNEL_ID_RE = re.compile(r"^UC[a-zA-Z0-9_-]{22}$")
 VALID_STATUSES = {"pending", "active", "disabled"}
-VALID_CATEGORIES = {"cartoons", "poems", "naats"}
+VALID_CATEGORIES = {"cartoons", "poems", "naats", "learning", "ayats"}
 
 
 class AllowlistError(Exception):

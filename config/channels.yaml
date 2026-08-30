@@ -101,3 +101,46 @@ categories:
         naats channel vetted so far — worth adding more for redundancy/
         variety before this category is the app's sole naats source.
       reels_eligible: false
+
+  learning:
+    - channel_id: "UCoookXUzPciGrEZEXmh4Jjg"
+      name: "Sesame Street"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 30.2M subscribers, channel since
+        2006, custom URL @sesamestreet matches brand exactly, 4097 videos.
+        Official PBS-affiliated brand, teaches letters/numbers/social-
+        emotional skills by design.
+      reels_eligible: true
+      max_video_seconds: 1800
+
+    - channel_id: "UCG2CL6EUjG8TVT1Tpl9nJdg"
+      name: "Ms Rachel - Toddler Learning Videos"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 21.1M subscribers, channel since
+        2019, custom URL @msrachel matches brand exactly, 125 videos.
+        Description explicitly: "Toddler Learning Videos... with a real
+        teacher." Sampled thumbnail/title clean (colors, vocabulary,
+        speech-development content).
+      reels_eligible: true
+
+  ayats:
+    - channel_id: "UC5vfWTTPnKdFp-8s0KbqJhw"
+      name: "One4Kids (Zaky & Friends)"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 1.62M subscribers, channel since
+        2008 (customUrl @one4kids-zaky; an earlier handle guess, @one4kids,
+        resolved to an unrelated 37-subscriber channel called "Mark Rocks" —
+        rejected that one, resolved the real channel via YouTube's legacy
+        forUsername lookup instead of forHandle). 980 videos, Sydney-based
+        Muslim-children animation studio, est. content since 2006. Sampled
+        titles/thumbnails clean (duas, Islamic reminders, wholesome family
+        show episodes) — broader Islamic content for kids, not narrowly
+        Quran-verse recitation; pairs with Zain Bhikha Kids under the app's
+        combined Islamic/"Ayats" tab. A dedicated pure Quran-recitation-for-
+        kids channel was NOT confidently found/vetted this round (candidates
+        surfaced were either too new/small or handle-mismatched) — worth
+        adding one later following the same process.
+      reels_eligible: true

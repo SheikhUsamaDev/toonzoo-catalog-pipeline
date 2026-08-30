@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 SCHEMA_VERSION = 1
-CATEGORIES = ("cartoons", "poems", "naats", "reels")
+CATEGORIES = ("cartoons", "poems", "naats", "learning", "ayats", "reels")
 
 
 def _now_iso() -> str:
