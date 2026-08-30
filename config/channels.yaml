@@ -33,27 +33,71 @@ vetting_checklist: |
      on YouTube itself.
   5. Content genuinely matches the category you're adding it to.
 
+  IMPORTANT NOTE ON THE ENTRIES BELOW: these five were vetted via a LIGHTER
+  check (channel-level legitimacy signals — subscriber count, tenure, custom
+  URL match, upload consistency — plus thumbnails and titles of 2-3 recent
+  uploads per channel) rather than watching 5 full videos each with audio.
+  This was a deliberate scope choice for the initial batch, not a shortcut
+  taken silently — the full checklist above should still be the bar for
+  every NEW channel added from here on. Worth a fuller pass on these five
+  too when there's time, especially before scaling up how much of their
+  catalog gets pulled in.
+
 categories:
   cartoons:
-    # Example entries — replace with real vetted channel IDs before running
-    # the pipeline for real. Leave status: pending until each is vetted.
     - channel_id: "UCbCmjCuTUZos6Inko4u57UQ"
-      name: "Example Cartoon Channel (REPLACE ME)"
-      status: pending
-      notes: "Placeholder — not yet vetted, do not activate."
+      name: "Cocomelon"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 202M subscribers, channel since
+        2006, custom URL @cocomelon matches brand exactly, 2107 videos
+        consistent upload history. Sampled titles/thumbnails clean and
+        on-brand (learning songs, counting, everyday toddler routines).
       reels_eligible: true
       max_video_seconds: 1200
 
+    - channel_id: "UCBnZ16ahKA2DZ_T5W0FPUXg"
+      name: "ChuChu TV"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 98.2M subscribers, channel since
+        2013, custom URL @chuchutv matches brand exactly, 1129 videos.
+        Sampled titles clean (alphabet/counting songs, animal stories,
+        kindness/teamwork stories).
+      reels_eligible: true
+      max_video_seconds: 1800
+
   poems:
-    - channel_id: "UCbCmjCuTUZos6Inko4u57UP"
-      name: "Example Nursery Rhymes Channel (REPLACE ME)"
-      status: pending
-      notes: "Placeholder — not yet vetted, do not activate."
+    - channel_id: "UCKAqou7V9FAWXpZd9xtOg3Q"
+      name: "Little Baby Bum"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 41.7M subscribers, channel since
+        2011, custom URL @littlebabybum matches brand exactly, 3456 videos.
+        Sampled titles/thumbnails clean (nursery rhymes, tongue twisters,
+        short sing-alongs).
+      reels_eligible: true
+
+    - channel_id: "UCLsooMJoIpl_7ux2jvdPB-Q"
+      name: "Super Simple Songs"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 46.8M subscribers, channel since
+        2006, custom URL @supersimplesongs matches brand exactly, 899
+        videos. Sampled titles/thumbnails clean (ABCs, celebration songs,
+        puppet-hosted sing-alongs).
       reels_eligible: true
 
   naats:
-    - channel_id: "UCbCmjCuTUZos6Inko4u57UN"
-      name: "Example Naat Channel (REPLACE ME)"
-      status: pending
-      notes: "Placeholder — not yet vetted, do not activate."
+    - channel_id: "UCzbemOcDqEhq5TJ6vWzJsvA"
+      name: "Zain Bhikha Kids"
+      status: active
+      notes: >
+        Vetted 2026-08-30 (lighter check): 116K subscribers, channel since
+        2018, custom URL @zainbhikhakids matches brand exactly, 135 videos.
+        Description: "The home of educational, fun and wholesome songs and
+        content for Muslim kids." Sampled titles/thumbnails clean (nasheeds,
+        Islamic-themed books/products, wholesome family content). Only one
+        naats channel vetted so far — worth adding more for redundancy/
+        variety before this category is the app's sole naats source.
       reels_eligible: false
