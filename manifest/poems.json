@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T18:59:13Z",
+  "generated_at": "2026-08-31T13:09:49Z",
   "videos": [
     {
       "video_id": "TfOZCtMr12Y",
@@ -54539,6 +54539,40 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-08-30T16:29:36Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "2T2ydbrdQN8",
+      "title": "Two Two Number 2 Song 🎵🎶 #short #LBB #Numbers",
+      "channel_id": "UCKAqou7V9FAWXpZd9xtOg3Q",
+      "channel_title": "Little Baby Bum",
+      "published_at": "2026-08-31T07:45:23Z",
+      "duration_seconds": 25,
+      "thumbnail_url": "https://i.ytimg.com/vi/2T2ydbrdQN8/hqdefault.jpg",
+      "tags": [
+        "Children Songs",
+        "Educational",
+        "Kids Music",
+        "Learn Numbers",
+        "Number Song",
+        "Nursery Rhymes",
+        "bed time",
+        "body parts",
+        "counting",
+        "cow",
+        "curious",
+        "dress-up time",
+        "entertainment",
+        "friends",
+        "happy",
+        "learn",
+        "math",
+        "number two",
+        "nursery rhymes",
+        "pairs"
+      ],
+      "reels_eligible": true,
+      "added_at": "2026-08-31T13:09:48Z",
       "source": "youtube"
     }
   ]
