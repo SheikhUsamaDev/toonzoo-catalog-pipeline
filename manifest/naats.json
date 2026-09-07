@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T13:09:49Z",
+  "generated_at": "2026-09-07T12:00:58Z",
   "videos": [
     {
       "video_id": "1vYSv0pgQYE",
@@ -3730,6 +3730,64 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-08-30T16:29:37Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "PRoWHd2aD5A",
+      "title": "Big dreams can start with little hearts.",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-09-04T14:01:28Z",
+      "duration_seconds": 41,
+      "thumbnail_url": "https://i.ytimg.com/vi/PRoWHd2aD5A/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-09-07T12:00:57Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "qlpjJzBSzYY",
+      "title": "A simple reminder that cleanliness is half our Deen. 🤍",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-09-02T15:30:11Z",
+      "duration_seconds": 53,
+      "thumbnail_url": "https://i.ytimg.com/vi/qlpjJzBSzYY/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-09-07T12:00:57Z",
       "source": "youtube"
     }
   ]
