@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T12:16:18Z",
+  "generated_at": "2026-09-21T12:24:21Z",
   "videos": [
     {
       "video_id": "UkMgtPNPdvM",
@@ -25919,6 +25919,93 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-09-14T12:16:18Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "2RzaEDN2HJw",
+      "title": "P-O-T-T-Y! #sesamestreet",
+      "channel_id": "UCoookXUzPciGrEZEXmh4Jjg",
+      "channel_title": "Sesame Street",
+      "published_at": "2026-09-19T11:30:29Z",
+      "duration_seconds": 63,
+      "thumbnail_url": "https://i.ytimg.com/vi/2RzaEDN2HJw/hqdefault.jpg",
+      "tags": [
+        "sesame street",
+        "sesame street songs",
+        "elmo songs",
+        "chappell roan",
+        "chappell roan parody",
+        "hot to go",
+        "hot to go cover",
+        "hot to go live",
+        "chappel roan live",
+        "sesame street parody",
+        "sesame street potty",
+        "elmo potty",
+        "potty song"
+      ],
+      "reels_eligible": true,
+      "added_at": "2026-09-21T12:24:19Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "CAVUz2I3TV4",
+      "title": "Making School Lunches with Abby! #sesamestreet",
+      "channel_id": "UCoookXUzPciGrEZEXmh4Jjg",
+      "channel_title": "Sesame Street",
+      "published_at": "2026-09-17T11:30:19Z",
+      "duration_seconds": 159,
+      "thumbnail_url": "https://i.ytimg.com/vi/CAVUz2I3TV4/hqdefault.jpg",
+      "tags": [
+        "sesame street",
+        "abbys amazing adventures",
+        "sesame street songs",
+        "sesame street food",
+        "sesame street lunch",
+        "sesame street reciepe",
+        "sesame street school",
+        "back to school",
+        "abby cadabby",
+        "sesame street abby",
+        "abby songs",
+        "school lunch",
+        "preschool",
+        "sesame street abby songs",
+        "abby and elmo",
+        "elmo",
+        "elmo songs",
+        "elmo video",
+        "elmo school"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-09-21T12:24:19Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "YDZ4uRzE77c",
+      "title": "GOT TO GO! Potty Song 🧻 🚽 (HOT TO GO! Parody) | Sesame Street Songs",
+      "channel_id": "UCoookXUzPciGrEZEXmh4Jjg",
+      "channel_title": "Sesame Street",
+      "published_at": "2026-09-16T11:30:20Z",
+      "duration_seconds": 145,
+      "thumbnail_url": "https://i.ytimg.com/vi/YDZ4uRzE77c/hqdefault.jpg",
+      "tags": [
+        "sesame street",
+        "sesame street songs",
+        "elmo songs",
+        "chappell roan",
+        "chappell roan parody",
+        "hot to go",
+        "hot to go cover",
+        "hot to go live",
+        "chappel roan live",
+        "sesame street parody",
+        "sesame street potty",
+        "elmo potty",
+        "potty song"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-09-21T12:24:19Z",
       "source": "youtube"
     }
   ]
