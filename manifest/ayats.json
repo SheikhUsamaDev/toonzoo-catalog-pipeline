@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T12:24:21Z",
+  "generated_at": "2026-09-28T13:21:30Z",
   "videos": [
     {
       "video_id": "39j8VT3z1qs",
@@ -27587,6 +27587,40 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-08-30T18:32:26Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "Bw433ZDXNyc",
+      "title": "Learn Surat At-Takathur with Zaky! 🎓 | Quran for Kids",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-09-23T17:37:38Z",
+      "duration_seconds": 458,
+      "thumbnail_url": "https://i.ytimg.com/vi/Bw433ZDXNyc/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-09-28T13:21:30Z",
       "source": "youtube"
     }
   ]
