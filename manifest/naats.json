@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T13:21:30Z",
+  "generated_at": "2026-10-05T14:04:38Z",
   "videos": [
     {
       "video_id": "1vYSv0pgQYE",
@@ -3904,6 +3904,35 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-09-28T13:21:29Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "uUKXrAEBDGQ",
+      "title": "Make playtime fun and engaging with our soft sensory Playmat",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-09-28T14:00:13Z",
+      "duration_seconds": 35,
+      "thumbnail_url": "https://i.ytimg.com/vi/uUKXrAEBDGQ/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-05T14:04:37Z",
       "source": "youtube"
     }
   ]
