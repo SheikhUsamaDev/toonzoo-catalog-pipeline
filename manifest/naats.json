@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T14:04:38Z",
+  "generated_at": "2026-10-12T14:53:34Z",
   "videos": [
     {
       "video_id": "1vYSv0pgQYE",
@@ -3933,6 +3933,93 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-10-05T14:04:37Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "5YDl3JdjWiE",
+      "title": "A little reminder to trust in Allah (SWT) and be grateful for each new day 💙💗💜🤍",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-10-09T13:45:13Z",
+      "duration_seconds": 42,
+      "thumbnail_url": "https://i.ytimg.com/vi/5YDl3JdjWiE/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-12T14:53:34Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "vRRjclpyzi8",
+      "title": "... because Islam isn’t just something we learn… it’s a way of life!",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-10-07T15:42:21Z",
+      "duration_seconds": 32,
+      "thumbnail_url": "https://i.ytimg.com/vi/vRRjclpyzi8/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-12T14:53:34Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "iODThJ5MoMY",
+      "title": "Meet Sheepy, everyone’s favourite bedtime companion!",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-10-05T14:10:30Z",
+      "duration_seconds": 20,
+      "thumbnail_url": "https://i.ytimg.com/vi/iODThJ5MoMY/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-12T14:53:34Z",
       "source": "youtube"
     }
   ]
