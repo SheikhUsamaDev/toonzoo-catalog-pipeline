@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T14:53:34Z",
+  "generated_at": "2026-10-19T12:38:32Z",
   "videos": [
     {
       "video_id": "39j8VT3z1qs",
@@ -27621,6 +27621,40 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-09-28T13:21:30Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "EnTMygSwqzA",
+      "title": "Recycle Race ♻️🏃 Kazwa & Bilal Featuring Zaky | EP15",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-10-17T08:53:21Z",
+      "duration_seconds": 506,
+      "thumbnail_url": "https://i.ytimg.com/vi/EnTMygSwqzA/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-19T12:38:32Z",
       "source": "youtube"
     }
   ]

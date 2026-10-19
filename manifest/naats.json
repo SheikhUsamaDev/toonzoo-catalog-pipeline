@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T14:53:34Z",
+  "generated_at": "2026-10-19T12:38:32Z",
   "videos": [
     {
       "video_id": "1vYSv0pgQYE",
@@ -4020,6 +4020,35 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-10-12T14:53:34Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "m7LRo1xejts",
+      "title": "Whatever life brings your way, always remember that you are a gift from Allah. ❤️",
+      "channel_id": "UCzbemOcDqEhq5TJ6vWzJsvA",
+      "channel_title": "Zain Bhikha Kids",
+      "published_at": "2026-10-15T15:34:21Z",
+      "duration_seconds": 49,
+      "thumbnail_url": "https://i.ytimg.com/vi/m7LRo1xejts/hqdefault.jpg",
+      "tags": [
+        "Zeebee Kids",
+        "Zeebee",
+        "Zain Bikha",
+        "Cotton Candy Sky",
+        "Childern’s Music",
+        "Educational",
+        "Animated Music",
+        "Islam",
+        "Animation",
+        "Childern",
+        "Singalong",
+        "Music for kids",
+        "Kids education",
+        "Videos for kids",
+        "Family"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-10-19T12:38:31Z",
       "source": "youtube"
     }
   ]
