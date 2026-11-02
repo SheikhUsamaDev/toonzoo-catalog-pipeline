@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T12:33:00Z",
+  "generated_at": "2026-11-02T15:12:07Z",
   "videos": [
     {
       "video_id": "39j8VT3z1qs",
@@ -27655,6 +27655,74 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-10-19T12:38:32Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "s9l6lTqXnko",
+      "title": "🌙 Dua Before Sleeping | Learn with Subi | Islamic Reminder for Kids",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-11-01T04:23:23Z",
+      "duration_seconds": 73,
+      "thumbnail_url": "https://i.ytimg.com/vi/s9l6lTqXnko/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": true,
+      "added_at": "2026-11-02T15:12:07Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "D30tFdV-Fmc",
+      "title": "The Evil Eye & How to Protect Yourself | Subi featuring Laith & Layla",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-10-29T02:13:47Z",
+      "duration_seconds": 206,
+      "thumbnail_url": "https://i.ytimg.com/vi/D30tFdV-Fmc/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-11-02T15:12:07Z",
       "source": "youtube"
     }
   ]
