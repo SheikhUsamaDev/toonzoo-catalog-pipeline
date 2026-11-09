@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T15:12:07Z",
+  "generated_at": "2026-11-09T15:41:07Z",
   "videos": [
     {
       "video_id": "39j8VT3z1qs",
@@ -27723,6 +27723,40 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-11-02T15:12:07Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "FScuSUrWqlE",
+      "title": "Dua for Waking Up | Morning Dua for Kids with Subi",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-11-04T06:33:33Z",
+      "duration_seconds": 99,
+      "thumbnail_url": "https://i.ytimg.com/vi/FScuSUrWqlE/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-11-09T15:41:07Z",
       "source": "youtube"
     }
   ]
