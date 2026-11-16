@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T15:41:07Z",
+  "generated_at": "2026-11-16T15:16:15Z",
   "videos": [
     {
       "video_id": "39j8VT3z1qs",
@@ -27757,6 +27757,74 @@
       ],
       "reels_eligible": false,
       "added_at": "2026-11-09T15:41:07Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "TQj12fjpGVk",
+      "title": "The Blessing of Time with Nadeen and Zaky",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-11-16T01:07:30Z",
+      "duration_seconds": 412,
+      "thumbnail_url": "https://i.ytimg.com/vi/TQj12fjpGVk/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-11-16T15:16:15Z",
+      "source": "youtube"
+    },
+    {
+      "video_id": "ktf5jgYjRC8",
+      "title": "Aisha (RA) | Mother of the Believers | Laith & Layla",
+      "channel_id": "UC5vfWTTPnKdFp-8s0KbqJhw",
+      "channel_title": "One4Kids (Zaky & Friends)",
+      "published_at": "2026-11-13T05:31:50Z",
+      "duration_seconds": 329,
+      "thumbnail_url": "https://i.ytimg.com/vi/ktf5jgYjRC8/hqdefault.jpg",
+      "tags": [
+        "one4kids",
+        "1 4 kids",
+        "one 4 kids",
+        "zaky",
+        "kazwa",
+        "zaki",
+        "islamic cartoons for kids",
+        "halal cartoons",
+        "no music cartoons",
+        "kids",
+        "arabic",
+        "learn arabic",
+        "nasheed",
+        "islamic songs",
+        "islamic nasheeds",
+        "music free songs for kids",
+        "omar and hana",
+        "zaky quran",
+        "zaky kids cartoons",
+        "one4kids tv"
+      ],
+      "reels_eligible": false,
+      "added_at": "2026-11-16T15:16:15Z",
       "source": "youtube"
     }
   ]
